@@ -1,0 +1,91 @@
+.button {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: "Montserrat", sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.button:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+
+body {
+  margin: 0;
+}
+
+text-center {
+  margin: 0;
+}
+
+.Introduction {
+  text-align: right;
+  background-color: #f3e38a;
+  margin: 0;
+  color: white;
+}
+
+.Content {
+  text-align: center;
+  color: white;
+  margin: 0;
+  background-color: #f38181;
+}
+#test{
+  text-align: center;
+  background-color:#ff9234;
+}
+.contact {
+  color: black;
+  font-family: "Sacramento", cursive;
+}
+
+.Copyright {
+  background-color: grey;
+  color: white;
+  font-family: "Handlee", cursive;
+}
+.Heading {
+  margin: 0;
+ 
+  left: 57.5rem;
+
+  font-family: "Sacramento", cursive;
+  font-size: 2.5rem;
+}
+.Heading1 {
+  color: white;
+  font-family: "Sacramento", cursive;
+}
+.Heading2{
+  color:white;
+}
+
+.carousel-item {
+  margin: 0;
+}
+.Contact {
+  text-align: center;
+  height: 31.25rem;
+  width: 31.25rem;
+}
+
+.row {
+  margin: 0;
+}
+/*contact form*/
